@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-br">
 	<head>
         <meta charset="utf-8">
@@ -6,22 +5,28 @@
         <style>
             body{
                 background: black
+            
         }
         h1{
-            color: red;
+            color: purple;
         }	
         p{
-            color: red
+            color: orange
         }
         h2{
-            color: red
+            color: purple
         }
         </style>
 	</head>
     
     <body>
         <h1> NBA Shoes </h1>
-        <p>Essa empresa é focada em basquete sendo assim temos de tudo, como exemplo:<strong> bolas de basquete,camisas,calções.  </strong></p>
+        <p>Essa empresa é focada em basquete sendo assim temos de tudo, como exemplo:<strong> bolas de basquete,camisas,calções,tenis de basquete e ate mesmo tenis de famosos como curry,lebron james,
+            lamelo ball</strong>
+                <p> e ate mesmo a nova coleção do tenis do zion com parceria ao grande anime famoso chamado naruto.</p>
         <h2>Temos tudo associado a basquete.</h2>
+<img src="https://content.betsul.com/media/basquete-betsul-brasileiros-nbalat.jpg">
+
 </body>
+
 </html>
